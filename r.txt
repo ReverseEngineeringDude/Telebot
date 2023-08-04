@@ -1,0 +1,2 @@
+instaloader==4.10
+telebot==0.0.5
